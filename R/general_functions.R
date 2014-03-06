@@ -1,6 +1,6 @@
 
 #######################################################################################
-## Order data frame
+## Order a data frame
 ######################################################################################
 
 OrderDataFrame <- function(dataFrame, variableToOrder, variableForOrder, decreasing=FALSE) {
